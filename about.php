@@ -16,7 +16,7 @@
     <nav>
     <a href="index.php">Home</a>
     <a id ="current" href="about.php">What is NLP?</a>
-    <a href="practical.php">Practical Applications</a>
+    <a href="practical.php">Examples</a>
     <a href="learn.php">Learn More</a>
     <hr class = "dash-style" />
   </nav>
