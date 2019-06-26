@@ -22,7 +22,7 @@
   </nav>
   <main>
      <figure>
-       <img src="images/nlp-person.jpg">
+       <img src="images/nlp-person.jpg" alt="Image of a person connecting to a computer">
      </figure>
           <div class="content">
             <h2 class="section-header">
@@ -46,7 +46,7 @@
   <hr>
   CST 336 Internet Programming 2019&copy; Kazemi  
   <br>
-  <img src="images/csumb-logo-white.png">
+  <img src="images/csumb-logo-white.png" alt="CSUMB logo">
 </footer>
 </body>
 </html>

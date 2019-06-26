@@ -22,7 +22,7 @@
   </nav>
   <main>
      <figure>
-       <img src="images/siri.png">
+       <img src="images/siri.png" alt="Diagram of how Siri leverages NLP">
        <figcaption>Image credit: <a href="https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486">sicara.com</a></figcaption>
      </figure>
   
@@ -48,7 +48,7 @@
   <hr>
   CST 336 Internet Programming 2019&copy; Kazemi  
   <br>
-  <img src="images/csumb-logo-white.png">
+   <img src="images/csumb-logo-white.png" alt="CSUMB logo">
 </footer>
 </body>
 </html>

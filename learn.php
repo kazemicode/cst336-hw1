@@ -22,7 +22,7 @@
   </nav>
   <main>
      <figure>
-       <img src="images/nltk.png">
+       <img src="images/nltk.png" alt="NLTK logo">
        <figcaption>Image credit: <a href="https://ndimensionz.com/kb/theoretical-explanation-of-how-siri-works/">ndimensionz.com</a></figcaption>
      </figure>
     
@@ -52,7 +52,7 @@
   <hr>
   CST 336 Internet Programming 2019&copy; Kazemi  
   <br>
-  <img src="images/csumb-logo-white.png">
+  <img src="images/csumb-logo-white.png" alt="CSUMB logo">
 </footer>
 </body>
 </html>

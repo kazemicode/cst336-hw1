@@ -22,7 +22,7 @@
   </nav>
   <main>
      <figure>
-       <img src="images/nlp-what.jpg">
+       <img src="images/nlp-what.jpg" alt="Image of a person made out of bits">
        <figcaption>Image credit: Thinkstock</figcaption>
      </figure>
           <div class="content">
@@ -45,7 +45,7 @@
   <hr>
   CST 336 Internet Programming 2019&copy; Kazemi  
   <br>
-  <img src="images/csumb-logo-white.png">
+  <img src="images/csumb-logo-white.png" alt="CSUMB logo">
 </footer>
 </body>
 </html>
